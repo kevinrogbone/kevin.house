@@ -7,8 +7,7 @@ body{
 	background-color: #1C1C1C;
 }
 	
-.mrgn
-{
+.mrgn {
 	margin-left:275px;
 }
 
@@ -58,7 +57,7 @@ body{
 		display: block;
 	}
 
-	.nav a:hover{
+	.nav a:hover {
 		color: #f1f1f1;
 		text-shadow: 0 0 6px #acacac;
 }
