@@ -8,19 +8,26 @@ body{
 }
 	
 .mrgn {
-	margin-left: 15%;
+	margin-left: 125px;
 }
 	
 .nav {
   background-color: #111;
   overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100%; 
 }
+	.nav mark {
+		float: left;
+		padding: 6px 7%;
+	}
 	.nav a {
 		margin-left: 3%;
 		float: left;
 		color: #818181;
 		text-align: center;
-		padding: 14px 3%;
+		padding: 14px 5%;
 		text-decoration: none;
 		font-size: 200%
 }
